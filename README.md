@@ -20,4 +20,3 @@ In the treating section, Reducing Gas Generator is assumed function at 90 percen
 
 # Made by :
 1. Abdul_Hafiz
-2. Surayya
